@@ -2,4 +2,4 @@
 
 ## Description
  
- This is a UI Clone for Tesla Mobile Application made with ReactNative and JS.
+ This is a UI Clone for Tesla Mobile Application built with ReactNative and JS.
