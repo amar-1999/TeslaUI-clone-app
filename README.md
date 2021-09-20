@@ -1,6 +1,6 @@
 # TeslaUI-clone-app
 
-![](assets/Tesla UI Clone.png)
+![](assets/Tesla%20UI%20Clone.png)
 
 ## Description
  
