@@ -23,4 +23,4 @@ This will start a development server for you.
 
 ## Site
 
-`https://amar-1999.github.io/`
+https://amar-1999.github.io/
